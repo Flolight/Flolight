@@ -1,5 +1,7 @@
 ### Hi I'm Florian, welcome here 👋
-
+![Twitter Follow](https://img.shields.io/twitter/follow/FlolightC?label=People%20following%20me%20on%20Twitter&style=social)
+![Twitch Status](https://img.shields.io/twitch/status/FlolightC?style=social)
+<!--Add youtube channel when necessary ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCdyqVgAU9bXmpFKoSJh2bDQ?style=social)-->
 <a href="https://github.com/Flolight">
 <img align="center" alt="Flolight's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Flolight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=algolia" /></a>
 
