@@ -1,0 +1,17 @@
+name: Latest blog posts
+on: 
+  schedule:
+    # Runs every hour
+    - cron: '0 0 */1 * *'
+  workflow_dispatch:
+  
+jobs:
+  update-readme-with-blog-posts:
+    name: Update this repo's Readme with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment-tag-name: "BLOG-POST-LIST"
+          feed_list: "https://blog.flolight.dev/rss.xml"
