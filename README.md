@@ -1,4 +1,7 @@
 ### Hi I'm Florian, welcome here 👋
+
+---
+
 ![Twitter Follow](https://img.shields.io/twitter/follow/FlolightC?label=People%20following%20me%20on%20Twitter&style=social)
 ![Twitch Status](https://img.shields.io/twitch/status/FlolightC?style=social)
 <!--Add youtube channel when necessary ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCdyqVgAU9bXmpFKoSJh2bDQ?style=social)-->
@@ -12,6 +15,8 @@ Best example, my fun hobby: Stage lighting design!
 I'm building my online presence with my [Blog](https://blog.flolight.dev/) and [Twitter](https://twitter.com/FlolightC) account to share what I learn on my journey.
 
 I'm also writing about how to start learning about Cloud: ["Please, Draw Me Some Clouds!"](https://pleasedrawmesomeclouds.flolight.dev/)
+
+---
 
 ### My Github stats
 
