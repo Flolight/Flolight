@@ -13,6 +13,8 @@ I'm building my online presence with my [Blog](https://blog.flolight.dev/) and [
 
 I'm also writing about how to start learning about Cloud: ["Please, Draw Me Some Clouds!"](https://pleasedrawmesomeclouds.flolight.dev/)
 
+### My Github stats
+
 <a href="https://github.com/Flolight">
 <img align="center" alt="Flolight's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Flolight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=algolia" /></a>
 
