@@ -22,11 +22,11 @@ I'm also writing about how to start learning about Cloud: ["Please, Draw Me Some
 📖 Latest blog articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Pilot your containers like a boss with AWS Copilot!](https://blog.flolight.dev/pilot-your-containers-like-a-boss-with-aws-copilot)
 - [Cloud: Where to start?](https://blog.flolight.dev/cloud-where-to-start)
 - [The Kinesis family Cheat Sheet](https://blog.flolight.dev/the-kinesis-family-cheat-sheet)
 - [Please welcome AWS CloudShell !](https://blog.flolight.dev/please-welcome-aws-cloudshell)
 - [AWS Proton](https://blog.flolight.dev/aws-proton)
-- [5 AWS Services you don’t know about](https://blog.flolight.dev/5-aws-services-you-dont-know-about)
 <!-- BLOG-POST-LIST:END -->
 
 ▶️ [more blog articles](https://blog.flolight.dev/)
