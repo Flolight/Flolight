@@ -33,6 +33,15 @@ I'm also writing about how to start learning about Cloud: ["Please, Draw Me Some
 
 ---
 
+🧪 Current projects focus
+
+- [My resume in Azure Challenge](https://github.com/Flolight/CloudGuruChallenge-Your-resume-in-Azure)
+- [GrowLab Challenge](https://github.com/Flolight/GrowLabChallenge)
+- [Learn Go by TDD](https://github.com/Flolight/go-by-tdd)
+- ...
+
+---
+
 ### My Github stats
 
 <a href="https://github.com/Flolight">
