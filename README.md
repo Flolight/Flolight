@@ -35,6 +35,7 @@ I'm also writing about how to start learning about Cloud: ["Please, Draw Me Some
 
 🧪 Current projects focus
 
+- [wave-portal-web3](https://github.com/Flolight/wave-portal-web3)
 - [Rule Them All](https://github.com/Flolight/RuleThemAll)
 - [Three tier application using AWS CDK](https://github.com/Flolight/cdk-three-tier)
 - [LinkFree](https://github.com/EddieHubCommunity/LinkFree)
