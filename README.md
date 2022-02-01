@@ -22,11 +22,11 @@ I'm also writing about how to start learning about Cloud: ["Please, Draw Me Some
 📖 Latest blog articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Coin Backpack: thirdweb, next.js and sanity to help you with your first steps in crypto](https://blog.flolight.dev/coin-backpack-thirdweb-nextjs-and-sanity-to-help-you-with-your-first-steps-in-crypto)
 - [How I passed the AWS Machine Learning Specialty certification](https://blog.flolight.dev/how-i-passed-the-aws-machine-learning-specialty-certification)
 - [Challenge: My Resume in Azure](https://blog.flolight.dev/challenge-my-resume-in-azure)
 - [Pilot your containers like a boss with AWS Copilot!](https://blog.flolight.dev/pilot-your-containers-like-a-boss-with-aws-copilot)
 - [Cloud: Where to start?](https://blog.flolight.dev/cloud-where-to-start)
-- [The Kinesis family Cheat Sheet](https://blog.flolight.dev/the-kinesis-family-cheat-sheet)
 <!-- BLOG-POST-LIST:END -->
 
 ▶️ [more blog articles](https://blog.flolight.dev/)
