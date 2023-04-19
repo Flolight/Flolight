@@ -2,7 +2,7 @@
 
 ---
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/FlolightC?label=People%20following%20me%20on%20Twitter&style=social)](https://twitter.com/FlolightC)
+[![Twitter Follow](https://img.shields.io/twitter/follow/FlolightC?label=Follow%20@FlolightC%20on%20Twitter&style=social)](https://twitter.com/FlolightC)
 [![Twitch Status](https://img.shields.io/twitch/status/FlolightC?style=social)](https://www.twitch.tv/flolightc)
 <!--Add youtube channel when necessary ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCdyqVgAU9bXmpFKoSJh2bDQ?style=social)-->
 
