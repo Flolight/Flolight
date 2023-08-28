@@ -45,6 +45,7 @@ I'm also writing about how to start learning about Cloud: ["Please, Draw Me Some
 - [Learn Go by TDD](https://github.com/Flolight/go-by-tdd)
 - ...
 
+<!--
 ---
 
 ### My Github stats
@@ -56,7 +57,7 @@ I'm also writing about how to start learning about Cloud: ["Please, Draw Me Some
 <a href="https://github.com/Flolight">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Flolight&layout=compact&theme=algolia" />
 </a>
-
+-->
 <!--
 **Flolight/Flolight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
