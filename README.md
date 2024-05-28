@@ -15,7 +15,7 @@ Best example, my fun hobby: Stage lighting design!
 
 I'm building my online presence with my [Blog](https://blog.flolight.dev/) and [Twitter](https://twitter.com/FlolightC) account to share what I learn on my journey.
 
-I'm also writing about how to start learning about Cloud: ["Please, Draw Me Some Clouds!"](https://pleasedrawmesomeclouds.flolight.dev/)
+I'm also writing about how to start learning about Cloud: ["Please, Draw Me Some Clouds!"](https://pleasedrawmesomeclouds.flolight.dev/get-updates)
 
 ---
 
